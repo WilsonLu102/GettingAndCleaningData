@@ -1,92 +1,94 @@
-Code Book
-Description:
+#Code Book
+##Description:
 This code book provides additional information on the background of the dataset, attribute information, and a breakdown of the columns produced in the tidy dataset.
-Column Descriptions
-The following columns are identifiers 
-•	ActivityID 
-•	Activity (activity related to ActivityID)
-•	Subject ID
 
-The remaining columns are all measurements (description provided in column’s name)
-•	BodyAccMeanX
-•	BodyAccMeanY
-•	BodyAccMeanZ
-•	BodyAccStdX
-•	BodyAccStdY
-•	BodyAccStdZ
-•	GravityAccMeanX
-•	GravityAccMeanY
-•	GravityAccMeanZ
-•	GravityAccStdX
-•	GravityAccStdY
-•	GravityAccStdZ
-•	BodyAccJerkMeanX
-•	BodyAccJerkMeanY
-•	BodyAccJerkMeanZ
-•	BodyAccJerkStdX
-•	BodyAccJerkStdY
-•	BodyAccJerkStdZ
-•	BodyGyroMeanX
-•	BodyGyroMeanY
-•	BodyGyroMeanZ
-•	BodyGyroStdX
-•	BodyGyroStdY
-•	BodyGyroStdZ
-•	BodyGyroJerkMeanX
-•	BodyGyroJerkMeanY
-•	BodyGyroJerkMeanZ
-•	BodyGyroJerkStdX
-•	BodyGyroJerkStdY
-•	BodyGyroJerkStdZ
-•	BodyAccMagMean
-•	BodyAccMagStd
-•	GravityAccMagMean
-•	GravityAccMagStd
-•	BodyAccJerkMagMean
-•	BodyAccJerkMagStd
-•	BodyGyroMagMean
-•	BodyGyroMagStd
-•	BodyGyroJerkMagMean
-•	BodyGyroJerkMagStd
-•	BodyAccMeanX
-•	BodyAccMeanY
-•	BodyAccMeanZ
-•	BodyAccStdX
-•	BodyAccStdY
-•	BodyAccStdZ
-•	BodyAccMeanFreqX
-•	BodyAccMeanFreqY
-•	BodyAccMeanFreqZ
-•	BodyAccJerkMeanX
-•	BodyAccJerkMeanY
-•	BodyAccJerkMeanZ
-•	BodyAccJerkStdX
-•	BodyAccJerkStdY
-•	BodyAccJerkStdZ
-•	BodyAccJerkMeanFreqX
-•	BodyAccJerkMeanFreqY
-•	BodyAccJerkMeanFreqZ
-•	BodyGyroMeanX
-•	BodyGyroMeanY
-•	BodyGyroMeanZ
-•	BodyGyroStdX
-•	BodyGyroStdY
-•	BodyGyroStdZ
-•	BodyGyroMeanFreqX
-•	BodyGyroMeanFreqY
-•	BodyGyroMeanFreqZ
-•	BodyAccMagMean
-•	BodyAccMagStd
-•	BodyAccMagMeanFreq
-•	BodyBodyAccJerkMagMean
-•	BodyBodyAccJerkMagStd
-•	BodyBodyAccJerkMagMeanFreq
-•	BodyBodyGyroMagMean
-•	BodyBodyGyroMagStd
-•	BodyBodyGyroMagMeanFreq
-•	BodyBodyGyroJerkMagMean
-•	BodyBodyGyroJerkMagStd
-•	BodyBodyGyroJerkMagMeanFreq
+##Column Descriptions
+###The following columns are identifiers 
+* ActivityID 
+* Activity (activity related to ActivityID)
+* Subject ID
+
+###The remaining columns are all measurements (description provided in columnâ€™s name)
+* BodyAccMeanX
+* BodyAccMeanY
+* BodyAccMeanZ
+* BodyAccStdX
+* BodyAccStdY
+* BodyAccStdZ
+* GravityAccMeanX
+* GravityAccMeanY
+* GravityAccMeanZ
+* GravityAccStdX
+* GravityAccStdY
+* GravityAccStdZ
+* BodyAccJerkMeanX
+* BodyAccJerkMeanY
+* BodyAccJerkMeanZ
+* BodyAccJerkStdX
+* BodyAccJerkStdY
+* BodyAccJerkStdZ
+* BodyGyroMeanX
+* BodyGyroMeanY
+* BodyGyroMeanZ
+* BodyGyroStdX
+* BodyGyroStdY
+* BodyGyroStdZ
+* BodyGyroJerkMeanX
+* BodyGyroJerkMeanY
+* BodyGyroJerkMeanZ
+* BodyGyroJerkStdX
+* BodyGyroJerkStdY
+* BodyGyroJerkStdZ
+* BodyAccMagMean
+* BodyAccMagStd
+* GravityAccMagMean
+* GravityAccMagStd
+* BodyAccJerkMagMean
+* BodyAccJerkMagStd
+* BodyGyroMagMean
+* BodyGyroMagStd
+* BodyGyroJerkMagMean
+* BodyGyroJerkMagStd
+* BodyAccMeanX
+* BodyAccMeanY
+* BodyAccMeanZ
+* BodyAccStdX
+* BodyAccStdY
+* BodyAccStdZ
+* BodyAccMeanFreqX
+* BodyAccMeanFreqY
+* BodyAccMeanFreqZ
+* BodyAccJerkMeanX
+* BodyAccJerkMeanY
+* BodyAccJerkMeanZ
+* BodyAccJerkStdX
+* BodyAccJerkStdY
+* BodyAccJerkStdZ
+* BodyAccJerkMeanFreqX
+* BodyAccJerkMeanFreqY
+* BodyAccJerkMeanFreqZ
+* BodyGyroMeanX
+* BodyGyroMeanY
+* BodyGyroMeanZ
+* BodyGyroStdX
+* BodyGyroStdY
+* BodyGyroStdZ
+* BodyGyroMeanFreqX
+* BodyGyroMeanFreqY
+* BodyGyroMeanFreqZ
+* BodyAccMagMean
+* BodyAccMagStd
+* BodyAccMagMeanFreq
+* BodyBodyAccJerkMagMean
+* BodyBodyAccJerkMagStd
+* BodyBodyAccJerkMagMeanFreq
+* BodyBodyGyroMagMean
+* BodyBodyGyroMagStd
+* BodyBodyGyroMagMeanFreq
+* BodyBodyGyroJerkMagMean
+* BodyBodyGyroJerkMagStd
+* BodyBodyGyroJerkMagMeanFreq
+
 Data Set Information:
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
