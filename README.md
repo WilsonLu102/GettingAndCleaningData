@@ -1,6 +1,6 @@
 # GettingAndCleaningData
-##Getting and Cleaning Data Course Project Coursera 
 
+##Overview
 This is the project code for Getting and Cleaning Data for the Data Science’s 3rd Coursera Course. 
 
 ##Files provided
